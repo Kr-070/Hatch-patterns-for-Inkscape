@@ -1,0 +1,180 @@
+<pattern id="+1"
+inkscape:stockid="+1"
+x="0" y="0" width="5" height="5"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="5" height="5"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -3,3 3,-3"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,5 5,0"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 2,8 8,2"/>
+</pattern>
+<pattern id="-1"
+inkscape:stockid="-1"
+x="0" y="0" width="5" height="5"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="5" height="5"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 2,-3 8,3"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,0 5,5"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -3,2 3,8"/>   
+</pattern>
+<pattern id="+1.2"
+inkscape:stockid="+1.2"
+x="0" y="0" width="6" height="6"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="6" height="6"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -3.6,3.6 3.6,-3.6"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,6 6,0"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 2.4,9.6 9.6,2.4"/>
+</pattern>
+<pattern id="-1.2"
+inkscape:stockid="-1.2"
+x="0" y="0" width="6" height="6"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="6" height="6"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 2.4,-3.6 9.6,3.6"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,0 6,6"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -3.6,2.4 3.6,9.6"/>   
+</pattern>
+<pattern id="+1.5"
+inkscape:stockid="+1.5"
+x="0" y="0" width="7.5" height="7.5"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="7.5" height="7.5"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -4.5,4.5 4.5,-4.5"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,7.5 7.5,0"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 3,12 12,3"/>
+</pattern>
+<pattern id="-1.5"
+inkscape:stockid="-1.5"
+x="0" y="0" width="7.5" height="7.5"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="7.5" height="7.5"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 3,-4.5 12,4.5"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,0 7.5,7.5"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -4.5,3 4.5,12"/>   
+</pattern>
+<pattern id="+2"
+inkscape:stockid="+2"
+x="0" y="0" width="10" height="10"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="10" height="10"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -6,6 6,-6"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,10 10,0"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 4,16 16,4"/>
+</pattern>
+<pattern id="-2"
+inkscape:stockid="-2"
+x="0" y="0" width="10" height="10"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="10" height="10"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 4,-6 16,6"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,0 10,10"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -6,4 6,16"/>   
+</pattern>
+<pattern id="+4"
+inkscape:stockid="+4"
+x="0" y="0" width="20" height="20"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="20" height="20"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -12,12 12,-12"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,20 20,0"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 8,32 32,8"/>
+</pattern>
+<pattern id="-4"
+inkscape:stockid="-4"
+x="0" y="0" width="20" height="20"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="20" height="20"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 8,-12 32,12"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,0 20,20"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -12,8 12,32"/>   
+</pattern>
+<pattern id="+8"
+inkscape:stockid="+8"
+x="0" y="0" width="40" height="40"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="40" height="40"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -24,24 24,-24"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,40 40,0"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 16,64 64,16"/>
+</pattern>
+<pattern id="-8"
+inkscape:stockid="-8"
+x="0" y="0" width="40" height="40"
+patternUnits="userSpaceOnUse">
+<rect style="fill:white;stroke:none" x="0" y="0" width="40" height="40"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 16,-24 64,24"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M 0,0 40,40"/>
+  <path
+     style="stroke:#000000;stroke-width:0.15mm"
+     d="M -24,16 24,64"/>   
+</pattern>
